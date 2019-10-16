@@ -1,4 +1,4 @@
-# personal-website
+# Blog page
 Website available at https://aamir1551.github.io
 A website where people can learn new stuff
 1) Include solutions of hackerRank and other online programming problems
