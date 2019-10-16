@@ -1,5 +1,5 @@
 # personal-website
-Website available at https://aamir1551.github.io/personal-website/
+Website available at https://aamir1551.github.io/blog/
 A website where people can learn new stuff
 1) Include solutions of hackerRank and other online programming problems
 2) Include java library (computationalGraph) and include a guide of how to use it
