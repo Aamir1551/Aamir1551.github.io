@@ -12,9 +12,6 @@
             background: black url("source/images/cornell-box.png") center / cover;
         }
         </style>
-        <?php
-        include 'navbar.html';
-        ?>
     </head>
     
 	<body>
