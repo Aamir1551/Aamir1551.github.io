@@ -16,9 +16,6 @@
     
 	<body>
 
-
-
-
         <section class="hero is-medium heroq is-info">
                 <div class="hero-body">
                   <div class="container has-text-centered">
